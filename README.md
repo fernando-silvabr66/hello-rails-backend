@@ -29,7 +29,7 @@
 
 ## Links
 
-- [React Frontend of this app](https://github.com/fernando-silvabr66/hello-rails-backend)
+- [React Frontend of this app](https://github.com/fernando-silvabr66/hello-rails-frontend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,7 +73,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -108,7 +107,7 @@ rails s
 
 ## Frontend link:
 
-https://github.com/fernando-silvabr66/hello-rails-backend
+https://github.com/fernando-silvabr66/hello-rails-frontend
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -125,6 +124,10 @@ https://github.com/fernando-silvabr66/hello-rails-backend
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
+
+- Implement click button to refresh greetings.
+- Implement remote API fetching.
+- Review different design approach.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
