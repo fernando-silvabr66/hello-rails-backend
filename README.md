@@ -26,6 +26,11 @@
 
 ## Images
 
+![image](https://user-images.githubusercontent.com/77974883/215293463-bd739c86-c853-4bc1-a9df-b352547fef0f.png)
+![image](https://user-images.githubusercontent.com/77974883/215293482-b9ad68c7-1163-4dcd-8710-0491e59ceee2.png)
+![image](https://user-images.githubusercontent.com/77974883/215293491-c5676aad-9583-4bb7-80cc-2f8148839ffe.png)
+![image](https://user-images.githubusercontent.com/77974883/215293503-c9e2741a-e649-431d-b0e0-69f8ce76dae2.png)
+![image](https://user-images.githubusercontent.com/77974883/215293527-fbebad4b-26c7-4ab5-b9ef-a8d54124ba2b.png)
 
 ## Links
 
@@ -100,9 +105,9 @@ bundle install
 rails db:create
 rails db:migrate
 rails db:seed
-```
-rails s
 
+rails s
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Frontend link:
